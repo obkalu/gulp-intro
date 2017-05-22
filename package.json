@@ -1,0 +1,35 @@
+{
+  "name": "gulp-intro",
+  "version": "1.0.0",
+  "description": "A simple Javascript application project demonstrating use of gulp.js in a modern JS app dev workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obkalu/gulp-intro.git"
+  },
+  "author": "Obinna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obkalu/gulp-intro/issues"
+  },
+  "homepage": "https://github.com/obkalu/gulp-intro#readme",
+  "engines": {},
+  "contributors": [
+    "Obinna"
+  ],
+  "keywords": [
+    "gulp",
+    "gulp.js"
+  ]
+}

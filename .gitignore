@@ -1,0 +1,21 @@
+# Build and Release Folders
+/dist
+
+# dependencies
+/node_modules
+/bower_components
+
+# Executables
+*.exe
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for WebStorm / Eclipse / Flash Builder.
+/.idea
+/.vscode
+*.launch
+
+# Other files and folders
+.settings/
+npm-debug.log

@@ -1,0 +1,12 @@
+$fgColor: #0000ff;
+$bgColor: #cccccc;
+
+body {
+    color: $fgColor;
+    background-color: $bgColor;
+}
+
+div.mainContent {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: $fgColor;
+}
